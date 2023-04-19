@@ -1,0 +1,61 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .nav ul {
+    display: flex;
+    flex: row;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .nav a {
+    text-decoration: none;
+  }
+  
+  .nav li {
+    margin-left: 20px;
+  }
+  
+  #logo {
+    text-align: left;
+    margin-left: 10px;
+  }
+  
+  .container button {
+    height: 175px;
+    width: 175px;
+    border-radius: 12px;
+  }
+  
+  body {
+    background: lightblue;
+  }
+  
+  a {
+    color: blue;
+    font-family: Papyrus;
+  }
+  
+  .buttons {
+    color: grey;
+  }
+  
+  button {
+    background:white;
+  }
+  h1 {
+    font-family: Papyrus;
+  }
+  
+  h2 {
+    font-family: Papyrus;
+  }
+  
+  #logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
